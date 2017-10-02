@@ -1,0 +1,10 @@
+D:\prog\C#\youtubemultibrouzer\youtubemultibrouzer\bin\Debug\youtubemultibrouzer.exe.config
+D:\prog\C#\youtubemultibrouzer\youtubemultibrouzer\bin\Debug\youtubemultibrouzer.exe
+D:\prog\C#\youtubemultibrouzer\youtubemultibrouzer\bin\Debug\youtubemultibrouzer.pdb
+D:\prog\C#\youtubemultibrouzer\youtubemultibrouzer\obj\Debug\youtubemultibrouzer.csprojResolveAssemblyReference.cache
+D:\prog\C#\youtubemultibrouzer\youtubemultibrouzer\obj\Debug\youtubemultibrouzer.Form1.resources
+D:\prog\C#\youtubemultibrouzer\youtubemultibrouzer\obj\Debug\youtubemultibrouzer.Properties.Resources.resources
+D:\prog\C#\youtubemultibrouzer\youtubemultibrouzer\obj\Debug\youtubemultibrouzer.csproj.GenerateResource.Cache
+D:\prog\C#\youtubemultibrouzer\youtubemultibrouzer\obj\Debug\youtubemultibrouzer.csproj.CoreCompileInputs.cache
+D:\prog\C#\youtubemultibrouzer\youtubemultibrouzer\obj\Debug\youtubemultibrouzer.exe
+D:\prog\C#\youtubemultibrouzer\youtubemultibrouzer\obj\Debug\youtubemultibrouzer.pdb
